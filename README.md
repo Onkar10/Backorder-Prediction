@@ -1,6 +1,6 @@
 ## CAN YOU PREDICT THE PRODUCT BACKORDERS??
 
-![Backorder] (http://www.microchannel.com.au/microchannel/media/microchannel/How-to-Minimise-Your-Backorders.png)
+![Backorder](http://www.microchannel.com.au/microchannel/media/microchannel/How-to-Minimise-Your-Backorders.png)
 
 
 
